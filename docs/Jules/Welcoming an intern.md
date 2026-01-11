@@ -1,5 +1,7 @@
-give access to Discord
-give access to Github
-show the Issue dedicated to the internship and explain our process to discuss on the issue
-create a branch on Cool, Coollab (and Launcher ifn)
-add them to the list of contributors
+- give access to Discord
+- give access to Github
+- show the Issue dedicated to the internship and explain our process to discuss on the issue
+- create a branch on Cool, Coollab (and Launcher ifn)
+- add them to the list of contributors
+
+- after internship remove role in organisation, they should go through fork + PR if they want to keep contributing

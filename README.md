@@ -7,7 +7,6 @@
   </tr>
 </table>
 
-
 ✨ _**Generative visuals for everyone**_ ✨
 
 - Intuitive for beginners
