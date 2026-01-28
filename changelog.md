@@ -1,5 +1,9 @@
 # Changelog
 
+##
+
+- 🐛 Fix crash when opening on Linux or Mac a project that was created on Windows
+
 ## 1.7.1 Mask to Shape
 
 - 🐛 Fix "Math Expression" node not working on MacOS
