@@ -1,6 +1,6 @@
 # Changelog
 
-##
+## 1.7.2 Mask to Shape
 
 - 🐛 Fix crash when opening on Linux or Mac a project that was created on Windows
 
