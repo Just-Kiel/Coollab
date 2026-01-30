@@ -1,6 +1,6 @@
 # Changelog
 
-##
+## 1.7.3 Mask to Shape
 
 - 🐛 Fix: double-clicking on a color gradient's mark to open its color picker was not working
 
