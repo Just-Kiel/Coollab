@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.7.4 Mask to Shape
+
+- 🐛 Update our File Picker library, which might fix some crashes on Linux
+
 ## 1.7.3 Mask to Shape
 
 - 🐛 Fix: double-clicking on a color gradient's mark to open its color picker was not working
