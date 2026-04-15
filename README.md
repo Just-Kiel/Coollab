@@ -4,8 +4,11 @@
   <tr>
     <td><img alt="logo" src="./logo.png" height = 100px/></td>
     <td><img alt="banner" src="./website/static/img/page-hero.png" height = 200px/></td>
+    <td><img alt="banner" src="./website/static/img/tuto3.webp" height = 200px/></td>
   </tr>
 </table>
+
+Coollab is a node-based software to create generative visuals in real time. It is designed to be very intuitive and easy to use, even for people who have zero notions of programming or math.
 
 ✨ _**Generative visuals for everyone**_ ✨
 
