@@ -29,6 +29,6 @@ Coollab can be used for VJing, exporting videos, creating interactive installati
 ## Contributions
 
 Coollab is made possible by the work of [all these lovely people](https://coollab-art.com/Contribute)<br/>
-If you would like to give a hand too, check out the [many ways you could contribute](https://coollab-art.com/Contribute)!
+If you would like to give a hand too, check out the [many different ways you could contribute](https://coollab-art.com/Contribute)!
 
 <a href="https://coollab-art.com/Contribute"><img width="1134" height="901" alt="image" src="https://github.com/user-attachments/assets/5f118447-9ab6-4bfd-b56d-2028e5746b93" /></a>
