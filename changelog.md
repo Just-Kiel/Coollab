@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.7.5 Mask to Shape
+
+- ✨ Enable Portal on Linux
+
 ## 1.7.4 Mask to Shape
 
 - 🐛 Update our File Picker library, which might fix some crashes on Linux
