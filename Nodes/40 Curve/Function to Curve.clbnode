@@ -1,0 +1,7 @@
+INPUT float->float 'Function';
+
+UV main(float t)
+{
+    float x = (t * 2 - 1) * _aspect_ratio;
+    return vec2(t, 'Function'(t));
+}
