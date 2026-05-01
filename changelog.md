@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.7.6 Mask to Shape
+
+- 🟦 Added "Function to Curve" node
+
 ## 1.7.5 Mask to Shape
 
 - ✨ Enable Portal on Linux
